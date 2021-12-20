@@ -1,0 +1,20 @@
+.navbar-brand {
+    font-size: 50px;
+    margin: 15px;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    background-color: rgba(228, 209, 209, 0.815);
+}
+.navbar-default .navbar-nav>li>a {
+    background-color: rgba(228, 209, 209, 0.815);
+}
+.navbar-toggle {
+    margin: 20px 15px;
+}
+#mainPart{
+    height: 700px;
+    background-color: rgba(228, 209, 209, 0.815);
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
